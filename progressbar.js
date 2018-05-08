@@ -2,7 +2,7 @@ function initProgressbar_1(item) {
 	var target = $(item);
 	target.css({
 		'display': 'inline',
-		'font-family': 'monospace',
+		'font-family': 'Consolas',
 	})
 	var Update = function(target) {
 		prog = parseFloat(target.attr("progress"));
@@ -33,7 +33,7 @@ function initProgressbar_2(item) {
 	var target = $(item);
 	target.css({
 		'display': 'inline',
-		'font-family': 'monospace',
+		'font-family': 'Consolas',
 	})
 	var pos = 0;
 	var Update = function(target) {
