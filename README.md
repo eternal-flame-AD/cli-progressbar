@@ -9,4 +9,4 @@ A simple js to show a cli-style progressbar
 5. assign 'refresh' attribute to the div tag to define how often the progressbar updates itself(in ms)
 ## Example
 * See progressbar.html
-* [here](https://eternalflame.cn)
+* [here](https://eternal-flame-ad.github.io/demo/progressbar.html)
